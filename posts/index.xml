@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on @grefab things and stuff</title>
+    <link>https://www.grefab.de/posts/</link>
+    <description>Recent content in Posts on @grefab things and stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Mar 2022 00:31:25 +0200</lastBuildDate><atom:link href="https://www.grefab.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Hochgieß</title>
+      <link>https://www.grefab.de/posts/project-hochgie%C3%9F/</link>
+      <pubDate>Tue, 29 Mar 2022 00:31:25 +0200</pubDate>
+      
+      <guid>https://www.grefab.de/posts/project-hochgie%C3%9F/</guid>
+      <description>I have a new plant that lives on the top of a shelf, way too high to reach for watering. Watering now takes place by using a pump and a 3D printed piece of water dispenser.</description>
+    </item>
+    
+  </channel>
+</rss>

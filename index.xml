@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@grefab things and stuff</title>
+    <link>https://www.grefab.de/</link>
+    <description>Recent content on @grefab things and stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.grefab.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.grefab.de/about/</link>
+      <pubDate>Tue, 29 Mar 2022 00:31:25 +0200</pubDate>
+      
+      <guid>https://www.grefab.de/about/</guid>
+      <description>Gregor Fabritius Born in 1982 in Transylvania and raised in Westerwald, Gregor studied computer science and a bit of psychology in Aachen before his profession took him to Berlin around 2010. Once there, he initially worked as a project engineer and later as a freelancer, before taking over Isotronic GmbH in 2017, which he has been managing ever since.
+#tech #science #ceo #isotronic #coding #cpp #golang #berlin #rwth [&amp;amp;]{}();</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.grefab.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.grefab.de/contact/</guid>
+      <description>contact github twitter facebook linkedin xing</description>
+    </item>
+    
+  </channel>
+</rss>
